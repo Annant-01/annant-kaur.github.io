@@ -11,7 +11,7 @@
 @import
     "vendor/breakpoint/breakpoint",
 body {
-   background-color:#faf7f2;
+   background-color:#00ff00;
 }
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
